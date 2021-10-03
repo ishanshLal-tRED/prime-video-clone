@@ -35,10 +35,13 @@ li {
 }
 
 .branding {
-    margin-top: 20px;
+    
     margin-left: 30px;
     cursor: pointer;
-    font-size: 1.5rem;
+    background: url("../img/amazon_video_light_on_dark (2).png");
+    width: 240px;
+    height:80px;
+    float: left;
 }
 
 /* navbar */
