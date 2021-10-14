@@ -69,13 +69,13 @@ li {
 }
 
 .btn {
-    background-color: #0f79af;
-    color: #fff;
-    height: 50px;
-    width: 270px;
-    font-size: 1.1rem;
-    font-weight:550;
-    border: none;
+    background-color: #fff;
+    color: #000;
+    height: 40px;
+    width: 250px;
+    font-size: 1.2rem;
+    font-weight:bold;
+    border-radius: 20px;
     margin-top: 50px;
     cursor: pointer;
     outline: none;
