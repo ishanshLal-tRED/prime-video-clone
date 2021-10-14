@@ -36,12 +36,13 @@ li {
 
 .branding {
     
-    margin-left: 30px;
-    cursor: pointer;
-    background: url("../img/amazon_video_light_on_dark (2).png");
-    width: 240px;
-    height:80px;
+    margin-left: 40px;
+    cursor: none;
+    background: url("../img/amazon_video_light_on_dark\ \(2\).png");
+    width: 250px;
+    height: auto;
     float: left;
+    opacity: 0.5;
 }
 
 /* navbar */
