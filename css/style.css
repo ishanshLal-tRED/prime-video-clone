@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
 
 * {
   margin: 0;
@@ -35,13 +35,12 @@ li {
 }
 
 .branding {
-  margin-left: 40px;
-  cursor: none;
-  background: url("../img/amazon_video_light_on_dark\ \(2\).png");
+  margin-left: 60px;
+  margin-top: 30px;
+  background: url('../img/amazon_video_light._SY32_FMpng_.png');
+  background-repeat: no-repeat;
   width: 250px;
-  height: auto;
-  float: left;
-  opacity: 0.5;
+  cursor: none;
 }
 
 /* navbar */
@@ -63,7 +62,7 @@ li {
 
 .showcase {
   height: 600px;
-  background-image: url("../img/Netflix-Background.jpg");
+  background-image: url('../img/Netflix-Background.jpg');
   background-size: cover;
   color: #fff;
 }
@@ -178,13 +177,13 @@ h1 {
   font-weight: 300;
   width: 80%;
   margin: auto;
-  font-family: "Open Sans", sans-serif;
+  font-family: 'Open Sans', sans-serif;
 }
 
 /* bottom */
 
 .bottom {
-  background-image: url("https://bleedingcool.com/wp-content/uploads/2020/03/big-books-1200x628.jpg");
+  background-image: url('https://bleedingcool.com/wp-content/uploads/2020/03/big-books-1200x628.jpg');
   color: #fff;
   min-height: 600px;
 }
@@ -264,7 +263,7 @@ footer img {
     font-weight: 300;
     width: 80%;
     margin: auto;
-    font-family: "Open Sans", sans-serif;
+    font-family: 'Open Sans', sans-serif;
   }
 
   .feature-1,
@@ -404,7 +403,7 @@ footer img {
   .showcase {
     position: relative;
     height: 600px;
-    background-image: url("../img/Netflix-Background.jpg");
+    background-image: url('../img/Netflix-Background.jpg');
     background-size: cover;
     color: #fff;
     z-index: -1;
